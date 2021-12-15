@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color:rgb(148, 253, 62);
+}
+label {
+    display: block;
+    padding-bottom: 1rem;
+}
+
+
+input {
+    font-size: large;
+    display: block;
+    width: 100%;
+    max-width: 325px;
+    outline-style: initial;
+    outline-width: initial;
+    padding: 0.6rem 1rem;
+    margin: 1rem auto;
+    border-radius: 0.5rem;
+}
